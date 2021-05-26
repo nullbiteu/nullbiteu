@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @nullbiteu
+- 👋 Hi, I’m @yobi
 - 👀 I’m interested in scripting, visual basic and technology
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning Autolt
+- 📫 
 
 <!---
 nullbiteu/nullbiteu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
