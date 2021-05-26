@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @yobi
-- 👀 I’m interested in scripting, visual basic and technology
+- 👀 I’m interested in scripting, visual basic, technology and pentesting 
 - 🌱 I’m currently learning Autolt and Haskell (I'll try it)
 - 📫 
 
