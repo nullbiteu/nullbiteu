@@ -5,13 +5,13 @@
 
 *Ich biete folgende Leistungen an:*
 
-Entwicklung von MS Access Datenbanken
+- Entwicklung von MS Access Datenbanken
 
-Entwicklung von SQL Datenbanken
+- Entwicklung von SQL Datenbanken
 
-Beschaffung von Hard- und Software aus jedem Bereich
+- Beschaffung von Hard- und Software aus jedem Bereich
 
-Hilfe rund um Kali Linux
+- Hilfe rund um Kali Linux
 
 <!---
 nullbiteu/nullbiteu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
