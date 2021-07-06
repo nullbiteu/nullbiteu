@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @yobi
 - 👀 I’m interested in scripting, visual basic, technology and pentesting 
 - 🌱 I’m currently learning autolt and Swift
-- 📫 
+- 📫 yobi386@protonmail.com
 
 *Ich biete folgende Leistungen an:*
 
